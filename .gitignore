@@ -1,1 +1,4 @@
 **/*.mat
+**/*.zip
+**/cs21btech11049_cs21btech11053-foml-assignment-2*
+**/.DS_Store
